@@ -1,0 +1,109 @@
+body,
+h1,
+h2,
+p,
+ul,
+li {
+    
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    
+ 
+}
+
+.container {
+  
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+.player-card {
+    background-color: beige;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.player-card h2 {
+    background-color: beige;
+    color: #333;
+}
+
+.player-image {
+    background-color: beige;
+    max-width: 50%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.player-details p {
+    background-color: beige;
+    margin-bottom: 5px;
+    
+}
+
+.details-button,
+.remove-button {
+    background-color: olive;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+}
+
+.details-button:hover,
+.remove-button:hover {
+    background-color: #45a049;
+}
+
+.player-form {
+  
+    background-color: beige;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.player-form label {
+  
+    background-color: beige;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.player-form input {
+  
+    background-color: beige;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.player-form button {
+  
+   background-color: beige;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
