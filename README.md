@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # react-pbowl-2308
 # reactPuppyBowl
 # reactPuppyBowl
+# reactPuppyBowl
