@@ -13,7 +13,7 @@ export const fetchPlayers = async () => {
         console.error(err)
     }
 }
-
+// 
 
 export const fetchSinglePlayer = async (playerId) =>{
     try {
